@@ -1,0 +1,44 @@
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Pacifico', cursive;
+}
+
+body{
+  background-color: #C1AEFC ;
+}
+
+h1{
+  color: #F6F7C1;
+}
+
+.button{
+  padding: 20px;
+  width: 66px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  background-color: #D1FFF3;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.row{
+  margin: 8px 0;
+  width: 82vw;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.row input{
+  background-color: #BEF0CB;
+  width: 200px;
+  font-size: 20px
+  margin: 0;
+  padding: 10px 38px;
+  border: 2px solid black;
+  border-radius: 9px;
+  font-weight: bold;
+}
